@@ -1,0 +1,62 @@
+[
+    {
+        "missiontype": 1,
+        "roomid": 2001,
+        "num": 10,
+        "id": 1,
+        "navigation": "2",
+        "gametype": "dzniuniu",
+        "name": "参加对战牛牛新手房游戏10局<font color='#ff0000'>1</font>局",
+        "reward": 10000
+    },
+    {
+        "missiontype": 1,
+        "roomid": 2002,
+        "num": 5,
+        "id": 2,
+        "navigation": "2",
+        "gametype": "dzniuniu",
+        "name": "参加对战牛牛初级房游戏5局",
+        "reward": 10000
+    },
+    {
+        "missiontype": 1,
+        "roomid": 2003,
+        "num": 1,
+        "id": 3,
+        "navigation": "2",
+        "gametype": "dzniuniu",
+        "name": "参加对战牛牛中级房游戏1局",
+        "reward": 10000
+    },
+    {
+        "missiontype": 2,
+        "roomid": 0,
+        "num": 5,
+        "id": 4,
+        "navigation": "1",
+        "gametype": "4nn",
+        "name": "赢取通比牛牛游戏5局",
+        "reward": 10000
+    },
+    {
+        "missiontype": 2,
+        "roomid": 0,
+        "num": 10,
+        "id": 5,
+        "navigation": "1",
+        "gametype": "4nn",
+        "name": "赢取通比牛牛游戏10局",
+        "reward": 10000
+    },
+    {
+        "missiontype": 3,
+        "roomid": 0,
+        "num": 2,
+        "id": 6,
+        "navigation": "3",
+        "gametype": "combullfight",
+        "name": "抢庄牛牛连续坐庄2次",
+        "reward": 10000
+    }
+]

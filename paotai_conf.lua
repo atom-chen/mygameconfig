@@ -1,0 +1,19 @@
+local data = {}
+
+data[1] = { PaoID = 1,  Base = 10,  Bullet = 1,  Activation = 7,  Cd = 0.25,  PicButtonAdd = "paotai1_anniu_you",  PicButtonMinus = "paotai1_anniu_zuo",  PicBottom = "paotai1_dizuo",  PicEnergyBottom = "paotai1_dizuo2",  PaoPrefab = 9,  PaoFireEffectID = 8}
+data[2] = { PaoID = 2,  Base = 20,  Bullet = 1,  Activation = 7,  Cd = 0.25,  PicButtonAdd = "paotai1_anniu_you",  PicButtonMinus = "paotai1_anniu_zuo",  PicBottom = "paotai1_dizuo",  PicEnergyBottom = "paotai1_dizuo2",  PaoPrefab = 9,  PaoFireEffectID = 8}
+data[3] = { PaoID = 3,  Base = 30,  Bullet = 1,  Activation = 7,  Cd = 0.25,  PicButtonAdd = "paotai1_anniu_you",  PicButtonMinus = "paotai1_anniu_zuo",  PicBottom = "paotai1_dizuo",  PicEnergyBottom = "paotai1_dizuo2",  PaoPrefab = 9,  PaoFireEffectID = 8}
+data[4] = { PaoID = 4,  Base = 50,  Bullet = 1,  Activation = 7,  Cd = 0.25,  PicButtonAdd = "paotai1_anniu_you",  PicButtonMinus = "paotai1_anniu_zuo",  PicBottom = "paotai1_dizuo",  PicEnergyBottom = "paotai1_dizuo2",  PaoPrefab = 9,  PaoFireEffectID = 8}
+data[5] = { PaoID = 5,  Base = 100,  Bullet = 2,  Activation = 8,  Cd = 0.25,  PicButtonAdd = "paotai1_anniu_you",  PicButtonMinus = "paotai1_anniu_zuo",  PicBottom = "paotai2_dizuo",  PicEnergyBottom = "paotai2_dizuo2",  PaoPrefab = 20,  PaoFireEffectID = 8}
+data[6] = { PaoID = 6,  Base = 150,  Bullet = 2,  Activation = 8,  Cd = 0.25,  PicButtonAdd = "paotai1_anniu_you",  PicButtonMinus = "paotai1_anniu_zuo",  PicBottom = "paotai2_dizuo",  PicEnergyBottom = "paotai2_dizuo2",  PaoPrefab = 20,  PaoFireEffectID = 8}
+data[7] = { PaoID = 7,  Base = 200,  Bullet = 2,  Activation = 8,  Cd = 0.25,  PicButtonAdd = "paotai1_anniu_you",  PicButtonMinus = "paotai1_anniu_zuo",  PicBottom = "paotai2_dizuo",  PicEnergyBottom = "paotai2_dizuo2",  PaoPrefab = 20,  PaoFireEffectID = 8}
+data[8] = { PaoID = 8,  Base = 300,  Bullet = 2,  Activation = 8,  Cd = 0.25,  PicButtonAdd = "paotai1_anniu_you",  PicButtonMinus = "paotai1_anniu_zuo",  PicBottom = "paotai2_dizuo",  PicEnergyBottom = "paotai2_dizuo2",  PaoPrefab = 20,  PaoFireEffectID = 8}
+data[9] = { PaoID = 9,  Base = 500,  Bullet = 3,  Activation = 9,  Cd = 0.25,  PicButtonAdd = "paotai1_anniu_you",  PicButtonMinus = "paotai1_anniu_zuo",  PicBottom = "paotai3_dizuo",  PicEnergyBottom = "paotai3_dizuo2",  PaoPrefab = 21,  PaoFireEffectID = 8}
+data[10] = { PaoID = 10,  Base = 1000,  Bullet = 3,  Activation = 9,  Cd = 0.25,  PicButtonAdd = "paotai1_anniu_you",  PicButtonMinus = "paotai1_anniu_zuo",  PicBottom = "paotai3_dizuo",  PicEnergyBottom = "paotai3_dizuo2",  PaoPrefab = 21,  PaoFireEffectID = 8}
+data[11] = { PaoID = 11,  Base = 1500,  Bullet = 4,  Activation = 10,  Cd = 0.25,  PicButtonAdd = "paotai1_anniu_you",  PicButtonMinus = "paotai1_anniu_zuo",  PicBottom = "paotai4_dizuo",  PicEnergyBottom = "paotai4_dizuo2",  PaoPrefab = 22,  PaoFireEffectID = 8}
+data[12] = { PaoID = 12,  Base = 2000,  Bullet = 4,  Activation = 10,  Cd = 0.25,  PicButtonAdd = "paotai1_anniu_you",  PicButtonMinus = "paotai1_anniu_zuo",  PicBottom = "paotai4_dizuo",  PicEnergyBottom = "paotai4_dizuo2",  PaoPrefab = 22,  PaoFireEffectID = 8}
+data[13] = { PaoID = 13,  Base = 3000,  Bullet = 4,  Activation = 10,  Cd = 0.25,  PicButtonAdd = "paotai1_anniu_you",  PicButtonMinus = "paotai1_anniu_zuo",  PicBottom = "paotai4_dizuo",  PicEnergyBottom = "paotai4_dizuo2",  PaoPrefab = 22,  PaoFireEffectID = 8}
+data[14] = { PaoID = 14,  Base = 5000,  Bullet = 5,  Activation = 11,  Cd = 0.25,  PicButtonAdd = "paotai1_anniu_you",  PicButtonMinus = "paotai1_anniu_zuo",  PicBottom = "paotai5_dizuo",  PicEnergyBottom = "paotai5_dizuo2",  PaoPrefab = 23,  PaoFireEffectID = 8}
+data[15] = { PaoID = 15,  Base = 10000,  Bullet = 6,  Activation = 12,  Cd = 0.25,  PicButtonAdd = "paotai1_anniu_you",  PicButtonMinus = "paotai1_anniu_zuo",  PicBottom = "paotai6_dizuo",  PicEnergyBottom = "paotai6_dizuo2",  PaoPrefab = 24,  PaoFireEffectID = 8}
+
+return data
